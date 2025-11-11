@@ -1,5 +1,5 @@
 import { FullRefund } from "./full_refund";
-import { NoRefund } from "./no_refund copy";
+import { NoRefund } from "./no_refund";
 import { PartialRefund } from "./partial_refund";
 import { RefundRule } from "./refund_rule.interface";
 
